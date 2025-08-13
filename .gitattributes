@@ -1,1 +1,2 @@
 data/raw/WB_FINDEX.csv filter=lfs diff=lfs merge=lfs -text
+data/external/WB_FINDEX.csv filter=lfs diff=lfs merge=lfs -text

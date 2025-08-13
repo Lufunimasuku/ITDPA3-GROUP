@@ -17,6 +17,11 @@ The goal is to identify whether the credit scoring model disproportionately disa
 
 ---
 
+## 📂 Project Structure
+![Project Structure](docs/Project-Structure.png)
+
+---
+
 ## ⚙️ Prerequisites
 Before running the project, make sure you have:
 - Python 3.10+
@@ -32,6 +37,4 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 Project Structure
-![Project Structure](docs/Project-Structure.png)
 

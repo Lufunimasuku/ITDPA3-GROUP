@@ -1,0 +1,41 @@
+Series Name,Series Code,Country Name,Country Code,2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023],2024 [YR2024]
+Gini index,SI.POV.GINI,South Africa,ZAF,..,..,..,..,..,..,..,..,..,..
+"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,South Africa,ZAF,25.149,26.537,27.035,26.906,28.468,29.217,34.007,33.268,32.098,..
+"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,South Africa,ZAF,23.197,24.535,25.2,25.135,26.786,27.743,32.114,31.496,29.989,..
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,South Africa,ZAF,25.149,26.536,27.035,26.906,28.468,29.217,34.007,33.268,32.098,33.168
+"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,South Africa,ZAF,23.151,24.486,25.145,25.089,26.738,27.697,32.06,31.457,29.946,31.173
+"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,South Africa,ZAF,27.522,28.983,29.255,29.045,30.503,31.022,36.324,35.401,34.58,..
+"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,South Africa,ZAF,27.468,28.925,29.191,28.992,30.448,30.971,36.263,35.357,34.531,35.421
+"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,South Africa,ZAF,22.752,24.091,24.977,25.574,26.829,27.294,32.316,32.289,30.892,..
+"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,South Africa,ZAF,29.484,31.003,31.275,32.009,33.075,33.78,40.043,37.421,38.761,..
+"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,South Africa,ZAF,35.028,36.596,36.442,35.519,37.849,38.113,43.191,43.333,41.796,..
+"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,South Africa,ZAF,28.714,29.757,30.886,30.433,32.649,33.525,38.154,37.297,36.179,..
+Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,South Africa,ZAF,25.839,27.247,27.84,28.483,29.657,30.202,35.779,34.626,34.524,..
+"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,South Africa,ZAF,9.576,11.222,14.591,13.168,15.031,15.902,18.77,18.115,16.936,..
+"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,South Africa,ZAF,8.133,10.182,10.944,10.787,11.966,13.221,16.344,14.776,12.988,..
+Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,South Africa,ZAF,31.455,32.708,33.288,32.652,34.917,35.479,40.303,39.911,38.607,..
+Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,South Africa,ZAF,8.88,10.728,12.858,12.028,13.585,14.661,17.641,16.546,15.144,..
+"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,South Africa,ZAF,50.13,53.346,53.202,53.408,57.053,59.359,65.219,61.478,60.082,..
+"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,South Africa,ZAF,49.447,52.631,52.625,52.938,56.628,58.588,64.652,61.115,59.719,60.889
+"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,South Africa,ZAF,46.324,48.587,48.822,49.151,53.222,55.425,61.025,57.975,56.76,..
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,South Africa,ZAF,45.451,47.712,48.061,48.531,52.624,54.489,60.312,57.454,56.234,57.057
+"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,South Africa,ZAF,54.884,59.296,58.515,58.741,61.722,64.061,70.08,65.755,63.942,..
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,South Africa,ZAF,54.686,59.088,58.38,58.614,61.553,63.681,69.786,65.764,63.91,65.493
+"Share of youth not in education, employment or training, female (% of female youth population)",SL.UEM.NEET.FE.ZS,South Africa,ZAF,33.071,33.875,33.817,34.152,34.276,33.82,34.639,36.64,35.506,..
+"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,South Africa,ZAF,27.948,28.588,28.228,28.986,30.653,30.983,31.246,33.741,32.453,..
+"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,South Africa,ZAF,30.499,31.222,31.014,31.563,32.46,32.399,32.94,35.188,33.977,..
+Ratio of female to male youth unemployment rate (%) (national estimate),SL.UEM.1524.FM.NE.ZS,South Africa,ZAF,118.478542440204,122.040875131208,119.853754454959,119.51130190637,115.970839126677,115.581416328372,114.838181073331,113.419577404053,112.653276955603,..
+Ratio of female to male youth unemployment rate (% ages 15-24) (modeled ILO estimate),SL.UEM.1524.FM.ZS,South Africa,ZAF,120.318584849618,123.843058350101,121.470631073011,120.776410953823,116.967543326239,116.869459890987,115.708316752885,114.463744908971,113.650104918732,114.785214785215
+"Rate of out-of-school youth of upper secondary school age, male (%)",UIS.ROFST.3.M.CP,South Africa,ZAF,10.43977,..,26.05788,21.59364,..,..,..,..,..,..
+"Rate of out-of-school youth of upper secondary school age, female (%)",UIS.ROFST.3.F.CP,South Africa,ZAF,14.54208,..,7.39424,19.69074,..,..,..,..,..,..
+A woman has the same rights to remarry as a man (1=yes; 0=no),SG.REM.RIGT.EQ,South Africa,ZAF,1,1,1,1,1,1,1,1,1,..
+Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,South Africa,ZAF,..,73.1397399902343,..,..,..,..,77.0829238891601,..,..,..
+Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,South Africa,ZAF,..,79.6142578125,..,..,..,..,82.0170516967773,..,..,..
+Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,South Africa,ZAF,..,85.3622360229492,..,..,..,..,86.6395416259765,..,..,..
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,South Africa,ZAF,..,..,..,..,..,..,..,..,..,..
+Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,South Africa,ZAF,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: Gender Statistics,,,,,,,,,,,,,
+Last Updated: 04/17/2025,,,,,,,,,,,,,

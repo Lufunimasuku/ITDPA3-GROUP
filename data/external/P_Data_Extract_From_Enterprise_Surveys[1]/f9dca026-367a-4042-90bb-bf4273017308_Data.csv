@@ -1,0 +1,121 @@
+Country Name,Country Code,Series Name,Series Code,2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+South Africa,ZAF,Age of the establishment (years),IC.FRM.FCHAR.CAR1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Annual employment growth (%),IC.FRM.EMP.GROW.PEFT2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Bribery depth (% of public transactions where a gift or informal payment was requested),IC.FRM.BRIB.GRAFT2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Bribery incidence (percent of firms experiencing at least one bribe payment request),IC.FRM.BRIB.GRAFT3,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Capacity utilization (%),IC.FRM.INNOV.T3,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Days to clear direct exports through customs,IC.FRM.TRD.TR1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Days to clear imports from customs,IC.FRM.TRD.TR2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Days to obtain a construction-related permit,IC.FRM.REG.BUS3,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Days to obtain an electrical connection (upon application),IC.FRM.INFRA.IN1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Days to obtain an import license,IC.FRM.REG.BUS1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Days to obtain an operating license,IC.FRM.REG.BUS2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,"If a generator is used, average proportion of electricity from a generator (%)",IC.FRM.INFRA.IN10_C,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,"If the establishment pays for security, average security costs (% of annual sales)",IC.FRM.CRM.CRIME2_C,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,"If there were losses, average losses due to theft and vandalism (% of annual sales)",IC.FRM.CRM.CRIME3_C,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,"If there were outages, average duration of a typical electrical outage (hours)",IC.FRM.INFRA.IN3_C,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,"If there were outages, average losses due to electrical outages (% of annual sales)",IC.FRM.INFRA.IN4_C,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,"If there were visits, average number of visits or required meetings with tax officials",IC.FRM.REG.REG2_C,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Number of electrical outages in a typical month,IC.FRM.INFRA.IN2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Number of water insufficiencies in a typical month,IC.FRM.INFRA.IN6,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Number of workers,IC.FRM.WRKF.WK14,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Number of years firm operated without formal registration,IC.FRM.INFOR.INFOR5,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms buying fixed assets,IC.FRM.FIAS.PEFT4,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing access to finance as their biggest obstacle,IC.FRM.OBS.OBST1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing access to land as their biggest obstacle,IC.FRM.OBS.OBST2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing business licensing and permits as their biggest obstacle,IC.FRM.OBS.OBST3,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing corruption as their biggest obstacle,IC.FRM.OBS.OBST4,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing courts as their biggest obstacle,IC.FRM.OBS.OBST5,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,"Percent of firms choosing crime, theft and disorder as their biggest obstacle",IC.FRM.OBS.OBST6,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing customs and trade regulations as their biggest obstacle,IC.FRM.OBS.OBST7,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing electricity as their biggest obstacle,IC.FRM.OBS.OBST8,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing inadequately educated workforce as their biggest obstacle,IC.FRM.OBS.OBST9,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing labor regulations as their biggest obstacle,IC.FRM.OBS.OBST10,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing political instability as their biggest obstacle,IC.FRM.OBS.OBST11,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing practices of the informal sector as their biggest obstacle,IC.FRM.OBS.OBST12,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing tax administration as their biggest obstacle,IC.FRM.OBS.OBST13,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing tax rates as their biggest obstacle,IC.FRM.OBS.OBST14,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms choosing transportation as their biggest obstacle,IC.FRM.OBS.OBST15,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms competing against unregistered or informal firms,IC.FRM.INFOR.INFOR1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms expected to give gifts in meetings with tax officials,IC.FRM.CORR.CORR1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms expected to give gifts to get a construction permit,IC.FRM.CORR.CORR8,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms expected to give gifts to get a water connection,IC.FRM.CORR.CORR7,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms expected to give gifts to get an electrical connection,IC.FRM.CORR.CORR6,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms expected to give gifts to get an import license,IC.FRM.CORR.CORR9,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms expected to give gifts to get an operating license,IC.FRM.CORR.CORR10,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms expected to give gifts to public officials "to get things done",IC.FRM.CORR.CORR4,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms expected to give gifts to secure government contract,IC.FRM.CORR.CORR2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms experiencing electrical outages,IC.FRM.INFRA.IN16,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms experiencing losses due to theft and vandalism,IC.FRM.CRM.CRIME10,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms experiencing water insufficiencies,IC.FRM.INFRA.IN17,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms exporting directly (at least 10% of sales),IC.FRM.TRD.TR16,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms exporting directly or indirectly (at least 10% of sales),IC.FRM.TRD.TR17,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms formally registered when they started operations in the country,IC.FRM.INFOR.INFOR4,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms having their own Web site,IC.FRM.INNOV.T5,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying access to finance as a major constraint,IC.FRM.FIN.FIN16,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying an inadequately educated workforce as a major constraint,IC.FRM.WRKF.WK10,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying business licensing and permits as a major constraint,IC.FRM.REG.BUS5,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying corruption as a major constraint,IC.FRM.CORR.CORR11,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,"Percent of firms identifying crime, theft and disorder as a major constraint",IC.FRM.CRM.CRIME8,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying customs and trade regulations as a major constraint,IC.FRM.TRD.TR9,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying electricity as a major constraint,IC.FRM.INFRA.IN12,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying labor regulations as a major constraint,IC.FRM.WRKF.WK9,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying practices of competitors in the informal sector as a major constraint,IC.FRM.INFOR.INFOR2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying tax administration as a major constraint,IC.FRM.REG.REG5,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying tax rates as a major constraint,IC.FRM.REG.REG4,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying the courts system as a major constraint,IC.FRM.CORR.CRIME9,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms identifying transportation as a major constraint,IC.FRM.INFRA.IN11,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms not needing a loan,IC.FRM.FIN.FIN20,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms offering formal training,IC.FRM.WRKF.WK1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms owning or sharing a generator,IC.FRM.INFRA.IN9,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms paying for security,IC.FRM.CRM.CRIME1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms that introduced a new product/service,IC.FRM.INNOV.T7,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms that introduced a process innovation,IC.FRM.INNOV.T9,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms that spend on R&D,IC.FRM.INNOV.T10,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms using banks to finance investments,IC.FRM.FIN.FIN12,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms using banks to finance working capital,IC.FRM.FIN.FIN13,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms using e-mail to interact with clients/suppliers,IC.FRM.INNOV.T6,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms using material inputs and/or supplies of foreign origin,IC.FRM.TRD.TR11,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms using supplier/customer credit to finance working capital,IC.FRM.FIN.FIN22,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms using technology licensed from foreign companies,IC.FRM.INNOV.T4,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms visited or required to meet with tax officials,IC.FRM.REG.REG6,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms whose new product/service is also new to the main market,IC.FRM.INNOV.T8,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms whose recent loan application was rejected,IC.FRM.FIN.FIN21,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with a bank loan/line of credit,IC.FRM.FIN.FIN14,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with a checking or savings account,IC.FRM.FIN.FIN15,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with a female top manager,IC.FRM.GEN.GEND4,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with an annual financial statement reviewed by external auditors,IC.FRM.INNOV.T2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with an internationally-recognized quality certification,IC.FRM.INNOV.T1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with at least 10% of foreign ownership,IC.FRM.FCHAR.CAR7,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with at least 10% of government/state ownership,IC.FRM.FCHAR.CAR8,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with female participation in ownership,IC.FRM.GEN.GEND1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with legal status of Sole Proprietorship,IC.FRM.FCHAR.LFORM3,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Percent of firms with majority female ownership,IC.FRM.GEN.GEND6,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Products shipped to supply domestic markets that were lost due to theft (% of product value),IC.FRM.CRM.CRIME5,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of investment financed by banks (%),IC.FRM.FIN.FIN2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of investment financed internally (%),IC.FRM.FIN.FIN1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of loans requiring collateral (%),IC.FRM.FIN.FIN11,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of permanent full-time non-production workers that are female (%),IC.FRM.GEN.GEND3,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of permanent full-time production workers that are female (%),IC.FRM.GEN.GEND5,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of permanent full-time workers that are female (%),IC.FRM.GEN.GEND2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of permanent workers (out of all workers),IC.FRM.WRKF.WK18,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of private domestic ownership in a firm (%),IC.FRM.FCHAR.CAR2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of production workers (out of all permanent workers),IC.FRM.WRKF.WK15,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of products lost to breakage or spoilage during shipping to domestic markets (%),IC.FRM.INFRA.IN14,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of skilled workers (out of all production workers) (%),IC.FRM.WRKF.WK19,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of temporary workers (out of all workers),IC.FRM.WRKF.WK17,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of total inputs that are of foreign origin (%),IC.FRM.TRD.TR8,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of total sales that are exported directly (%),IC.FRM.TRD.TR5,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of workers offered formal training (%),IC.FRM.WRKF.WK2,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Proportion of working capital financed by banks (%),IC.FRM.FIN.FIN7,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Real annual labor productivity growth (%),IC.FRM.PROD.GROW.PEFT3,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Real annual sales growth (%),IC.FRM.SLS.GROW.PEFT1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Senior management time spent dealing with the requirements of government regulation (%),IC.FRM.REG.REG1,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Value of collateral needed for a loan (% of the loan amount),IC.FRM.FIN.FIN10,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Value of gift expected to secure a government contract (% of contract value),IC.FRM.CORR.CORR3,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Years of the top manager's experience working in the firm's sector,IC.FRM.WRKF.WK8,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: Enterprise Surveys,,,,,,,,,,,,,
+Last Updated: 03/25/2022,,,,,,,,,,,,,
